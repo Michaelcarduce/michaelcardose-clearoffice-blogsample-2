@@ -10,7 +10,7 @@ export default function BlogPage() {
       className="min-h-screen"
       style={{ backgroundColor: "rgba(245, 245, 247, 1)" }}>
       {/* Navigation */}
-      <Navigation variant="home" ctaText="Book A Call" transparent={true} />
+      <Navigation variant="home" ctaText="Book A Call" transparent={false} />
 
       {/* Blog Breadcrumb */}
       {/* <div className="pt-24 px-6">
